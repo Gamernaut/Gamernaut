@@ -4,7 +4,7 @@ I'm a hobbyist programmer who is starting to get back into it, after being focus
 ## What am I interested in?
 I have 2 main areas of interest. One is the use of Data Science (AI & ML and more advanced techniques such as Genetic Algorithms) to solve biological scientific problems and the other is to build some kind of Space/Flight simulator with a realistic physics based flight model. This second one will likley be a combination of C++ and Unreal Engine 4/5.
 
-I'm an avid combat flight simulator fan and am a founding memeber of the [72 Ghosts](http::www.72-hosts.com) Virtual Fighter Squadron.
+I'm an avid combat flight simulator fan and am a founding memeber of the [72 Ghosts](http://72-ghosts.com/) Virtual Fighter Squadron.
 
 ## What am I looking for?
 Like minded souls. Anyone who is keen to share their expereince with implementing code for either of my areas of interest above. I'm looking to learn and to contribute to some open source projects but have never worked in a software development team so would love to gain expereince in that.
