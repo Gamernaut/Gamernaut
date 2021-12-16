@@ -2,7 +2,7 @@
 I'm a hobbyist programmer who is starting to get back into it, after being focused on my non-programming professional career, for many years. I'm completely self taught (having started with BASIC in the 80s) and devour anything I can find in books, on the web or in other peoples code to increase my knowledge. I'm currently learning/relearning C++ and Python and will probably add Rust, Go and Kotlin to my list eventually.
 
 ## What am I interested in?
-I have 2 main areas of interest. One is the use of Data Science (AI & ML and more advanced techniques such as Genetic Algorithms) to solve biological scientific problems and the other is to build some kind of Space/Flight simulator with a realistic physics based flight model. This second one will likley be a combination of C++ and Unreal Engine 4/5.
+I have 2 main areas of interest. One is the use of Data Science (AI & ML and more advanced techniques such as Genetic Algorithms) to solve biological scientific problems and the other is to build some kind of Space/Flight simulator with a realistic physics based flight model. This second one will likley be a combination of C++ and Unreal Engine 4/5 and will be a "labour of love".
 
 I'm an avid combat flight simulator fan and am a founding memeber of the [72 Ghosts](http://72-ghosts.com/) Virtual Fighter Squadron.
 
